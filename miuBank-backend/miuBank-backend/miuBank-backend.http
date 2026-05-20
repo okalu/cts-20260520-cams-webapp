@@ -1,0 +1,6 @@
+@miuBank_backend_HostAddress = http://localhost:5116
+
+GET {{miuBank_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
